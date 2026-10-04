@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LIFELESSTEALERS.aternos.me",
-    "port": 15845,
+    "ip": "fairpvpz.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
