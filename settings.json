@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "pranit",
+    "username": "TattiPowder",
+    "password": "123456",
     "type": "offline"
   },
   "server": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "tattipowder",
+        "im tanish",
+        "Welcome to fairpvp"
       ]
     },
     "chat-log": true,
